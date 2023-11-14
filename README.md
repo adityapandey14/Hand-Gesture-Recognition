@@ -4,4 +4,5 @@ We are going to recognize hand gestures from a video sequence. To recognize thes
 1.  We, first need to segment the hand region alone removing all the unwanted portions in the video sequence. 
 2.  After segmenting the hand region, we then pass that region to the trained 2D CNN model, to predict the hand gesture.
 
-![image.png](attachment:image.png)
+
+![alt text](https://github.com/adityapandey14/Hand-Gesture-Recognition/blob/main/image.png)
